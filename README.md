@@ -14,3 +14,4 @@ This is a simple web application that generates a random fact each time a button
 
    ```bash
    git clone https://github.com/yourusername/random-fact-generator.git
+author-vishal mishra
